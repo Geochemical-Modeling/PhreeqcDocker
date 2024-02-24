@@ -1,0 +1,22 @@
+TITLE Experimenting with PHREEQC
+
+SOLUTION
+	Units mg/L
+	pH 7.56
+	temp 13.63
+	Ca 56.32
+	Mg 7.04
+	K 1.63
+	Cl 19.805
+	Na 6.94
+	Al 0.00013
+	F 0.011
+	S(6) 25.37 as SO4
+	Si 6.5
+	N(5) 22.265 as NO3
+	Alkalinity 159 as HCO3
+END
+
+REACTION_TEMPERATURE 1
+13.63 0
+25 100
